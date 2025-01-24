@@ -1,5 +1,5 @@
 /**
- * element toggle function
+ * element toggle 
  */
 
 const elemToggleFunc = function (elem) {
